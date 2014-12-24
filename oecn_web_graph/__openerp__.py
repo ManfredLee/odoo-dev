@@ -10,7 +10,7 @@
     """,
 
     'author': "Manfred Lee(MFY)",
-    'website': "",
+    'website': "https://github.com/ManfredLee",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/openerp/addons/base/module/module_data.xml

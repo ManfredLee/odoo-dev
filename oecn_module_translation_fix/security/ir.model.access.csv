@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_oecn_module_translation_fix_oecn_module_translation_fix,oecn_module_translation_fix.oecn_module_translation_fix,model_oecn_module_translation_fix_oecn_module_translation_fix,,1,0,0,0

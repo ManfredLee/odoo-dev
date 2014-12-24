@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "oecn_translation",
+    'name': "oecn_module_translation_fix",
 
     'summary': """
-        修正官方ir_translation模块翻译bug""",
+        修正各个模块的翻译bug""",
 
     'description': """
-        修正官方ir_translation模块翻译bug
+已修正：
+1，stock模块库位列表中库位名字显示的翻译问题
     """,
 
     'author': "Manfred Lee(MFY)",
@@ -19,7 +20,7 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base'],
+    'depends': ['base', 'stock'],
 
     # always loaded
     'data': [
