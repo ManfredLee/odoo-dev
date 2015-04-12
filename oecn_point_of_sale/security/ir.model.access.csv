@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_oecn_point_of_sale_oecn_point_of_sale,oecn_point_of_sale.oecn_point_of_sale,model_oecn_point_of_sale_oecn_point_of_sale,,1,0,0,0
